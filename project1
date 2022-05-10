@@ -1,5 +1,10 @@
 this is git
 this is my second commit
 this is my fb commit
+<<<<<<< HEAD
 this is my master commit
 
+||||||| 3f8deac
+=======
+this is my rebase commit
+>>>>>>> fb
